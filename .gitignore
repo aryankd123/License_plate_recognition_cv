@@ -1,0 +1,9 @@
+# Ignore big/binary stuff
+*.mp4
+*.avi
+*.mov
+*.zip
+env/
+wandb/
+runs/
+.DS_Store
